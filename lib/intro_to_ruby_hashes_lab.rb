@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  coffee = {:roast => "dark", :iced => true}
+  coffee = {:roast => "dark", :temp => "iced"}
 end
 
 def pioneer
